@@ -9,6 +9,11 @@
 *.x86_64
 *.hex
 
+# Codeblocks
+*.cbp
+*.depend
+*.layout
+
 # Other stuff
 *.pdf
 #*.txt
